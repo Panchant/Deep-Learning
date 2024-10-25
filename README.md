@@ -5,23 +5,23 @@
 ## Computer Vision
 1. LeNet
 
-提出者：Yann LeCun 等
+    - 提出者：Yann LeCun 等
 
-年份：1998
+    - 年份：1998
 
-任务：手写数字识别（MNIST）
+    - 任务：手写数字识别（MNIST）
 
-特点：第一个成功应用于实际任务的卷积神经网络，奠定了卷积神经网络的基础。
+    - 特点：第一个成功应用于实际任务的卷积神经网络，奠定了卷积神经网络的基础。
 
 2. AlexNet
 
-提出者：Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
+    - 提出者：Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
 
-年份：2012
+    - 年份：2012
 
-任务：ImageNet 大规模视觉识别挑战赛（ILSVRC）
+    - 任务：ImageNet 大规模视觉识别挑战赛（ILSVRC）
 
-特点：首次在大规模图像分类任务中使用深度卷积神经网络，显著提高了分类精度，开启了深度学习在计算机视觉领域的热潮。
+    - 特点：首次在大规模图像分类任务中使用深度卷积神经网络，显著提高了分类精度，开启了深度学习在计算机视觉领域的热潮。
 
 3. VGG
 
